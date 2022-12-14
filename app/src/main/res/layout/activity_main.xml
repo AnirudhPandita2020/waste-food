@@ -18,7 +18,8 @@
         android:background="#F4BF20"
         android:scrollHorizontally="true"
         android:singleLine="true"
-        android:text="Waste Food Management App"
+        android:text="HOPE"
+        android:textAlignment="center"
         android:textSize="30sp"
         android:textStyle="bold" />
     <TextView
